@@ -53,7 +53,7 @@ npm run dev
 
 This starts:
 - **Frontend** on `http://localhost:5173`
-- **Backend** on `http://localhost:3001`
+- **Backend** on `https://foodos-backend-td4r.onrender.com/`
 
 **Option B – Run client and server separately**
 
